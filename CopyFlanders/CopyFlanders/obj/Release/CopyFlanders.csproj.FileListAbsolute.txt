@@ -1,0 +1,13 @@
+c:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\CopyFlanders\CopyFlanders\bin\Release\CopyFlanders.exe.config
+c:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\CopyFlanders\CopyFlanders\bin\Release\CopyFlanders.exe
+c:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\CopyFlanders\CopyFlanders\bin\Release\CopyFlanders.pdb
+c:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\CopyFlanders\CopyFlanders\obj\Release\CopyFlanders.exe
+c:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\CopyFlanders\CopyFlanders\obj\Release\CopyFlanders.pdb
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\CopyFlanders\CopyFlanders\obj\Release\CopyFlanders.csprojResolveAssemblyReference.cache
+D:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\CopyFlanders\CopyFlanders\bin\Release\CopyFlanders.exe.config
+D:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\CopyFlanders\CopyFlanders\bin\Release\CopyFlanders.exe
+D:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\CopyFlanders\CopyFlanders\bin\Release\CopyFlanders.pdb
+D:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\CopyFlanders\CopyFlanders\bin\Release\Microsoft.Practices.Unity.dll
+D:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\CopyFlanders\CopyFlanders\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\CopyFlanders\CopyFlanders\obj\Release\CopyFlanders.exe
+D:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\CopyFlanders\CopyFlanders\obj\Release\CopyFlanders.pdb

@@ -1,0 +1,12 @@
+c:\users\paulo.junior\documents\visual studio 2013\Projects\CopyFlanders\CopyFlanders\bin\Debug\CopyFlanders.exe.config
+c:\users\paulo.junior\documents\visual studio 2013\Projects\CopyFlanders\CopyFlanders\bin\Debug\CopyFlanders.exe
+c:\users\paulo.junior\documents\visual studio 2013\Projects\CopyFlanders\CopyFlanders\bin\Debug\CopyFlanders.pdb
+c:\users\paulo.junior\documents\visual studio 2013\Projects\CopyFlanders\CopyFlanders\obj\Debug\CopyFlanders.exe
+c:\users\paulo.junior\documents\visual studio 2013\Projects\CopyFlanders\CopyFlanders\obj\Debug\CopyFlanders.pdb
+D:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\CopyFlanders\CopyFlanders\bin\Debug\CopyFlanders.exe.config
+D:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\CopyFlanders\CopyFlanders\obj\Debug\CopyFlanders.exe
+D:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\CopyFlanders\CopyFlanders\obj\Debug\CopyFlanders.pdb
+D:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\CopyFlanders\CopyFlanders\bin\Debug\CopyFlanders.exe
+D:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\CopyFlanders\CopyFlanders\bin\Debug\CopyFlanders.pdb
+D:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\CopyFlanders\CopyFlanders\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\CopyFlanders\CopyFlanders\bin\Debug\Microsoft.Practices.ServiceLocation.dll
