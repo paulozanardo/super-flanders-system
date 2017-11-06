@@ -1,0 +1,6 @@
+c:\users\paulo.junior\documents\visual studio 2013\Projects\RenataIngrataXLS\RenataIngrataXLS\bin\Debug\RenataIngrataXLS.exe.config
+c:\users\paulo.junior\documents\visual studio 2013\Projects\RenataIngrataXLS\RenataIngrataXLS\obj\Debug\RenataIngrataXLS.csprojResolveAssemblyReference.cache
+c:\users\paulo.junior\documents\visual studio 2013\Projects\RenataIngrataXLS\RenataIngrataXLS\bin\Debug\RenataIngrataXLS.exe
+c:\users\paulo.junior\documents\visual studio 2013\Projects\RenataIngrataXLS\RenataIngrataXLS\bin\Debug\RenataIngrataXLS.pdb
+c:\users\paulo.junior\documents\visual studio 2013\Projects\RenataIngrataXLS\RenataIngrataXLS\obj\Debug\RenataIngrataXLS.exe
+c:\users\paulo.junior\documents\visual studio 2013\Projects\RenataIngrataXLS\RenataIngrataXLS\obj\Debug\RenataIngrataXLS.pdb

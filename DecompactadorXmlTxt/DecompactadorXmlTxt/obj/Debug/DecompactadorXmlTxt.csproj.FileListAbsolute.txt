@@ -1,0 +1,10 @@
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\DecompactadorXmlTxt\DecompactadorXmlTxt\bin\Debug\DecompactadorXmlTxt.exe.config
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\DecompactadorXmlTxt\DecompactadorXmlTxt\bin\Debug\DecompactadorXmlTxt.exe.manifest
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\DecompactadorXmlTxt\DecompactadorXmlTxt\bin\Debug\DecompactadorXmlTxt.application
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\DecompactadorXmlTxt\DecompactadorXmlTxt\bin\Debug\DecompactadorXmlTxt.exe
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\DecompactadorXmlTxt\DecompactadorXmlTxt\bin\Debug\DecompactadorXmlTxt.pdb
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\DecompactadorXmlTxt\DecompactadorXmlTxt\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\DecompactadorXmlTxt\DecompactadorXmlTxt\obj\Debug\DecompactadorXmlTxt.exe.manifest
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\DecompactadorXmlTxt\DecompactadorXmlTxt\obj\Debug\DecompactadorXmlTxt.application
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\DecompactadorXmlTxt\DecompactadorXmlTxt\obj\Debug\DecompactadorXmlTxt.exe
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\DecompactadorXmlTxt\DecompactadorXmlTxt\obj\Debug\DecompactadorXmlTxt.pdb

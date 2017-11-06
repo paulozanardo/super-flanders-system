@@ -1,0 +1,17 @@
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Release\ProgramaModificaArquivoZip.exe.config
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Release\ProgramaModificaArquivoZip.exe
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Release\ProgramaModificaArquivoZip.pdb
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\ProgramaModificaArquivoZip_MarkupCompile.cache
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\ProgramaModificaArquivoZip.g.resources
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\ProgramaModificaArquivoZip.Properties.Resources.resources
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\ProgramaModificaArquivoZip.csproj.GenerateResource.Cache
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\ProgramaModificaArquivoZip.exe
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\ProgramaModificaArquivoZip.pdb
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\Coluna.baml
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\Coluna.g.cs
+D:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Release\ProgramaModificaArquivoZip.exe.config
+D:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\ProgramaModificaArquivoZip.exe
+D:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\ProgramaModificaArquivoZip.pdb

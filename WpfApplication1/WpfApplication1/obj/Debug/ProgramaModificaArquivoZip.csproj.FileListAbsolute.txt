@@ -1,0 +1,15 @@
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\ProgramaModificaArquivoZip.exe.config
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\ProgramaModificaArquivoZip.exe
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\ProgramaModificaArquivoZip.pdb
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\ProgramaModificaArquivoZip_MarkupCompile.cache
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\ProgramaModificaArquivoZip.g.resources
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\ProgramaModificaArquivoZip.Properties.Resources.resources
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\ProgramaModificaArquivoZip.csproj.GenerateResource.Cache
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\ProgramaModificaArquivoZip.exe
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\ProgramaModificaArquivoZip.pdb
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\ProgramaModificaArquivoZip.csprojResolveAssemblyReference.cache
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Coluna.baml
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Coluna.g.cs

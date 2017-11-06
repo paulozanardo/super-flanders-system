@@ -1,0 +1,13 @@
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
+c:\users\paulo.junior\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Release\ProgramaModificaArquivoZip.exe.config

@@ -1,0 +1,6 @@
+c:\users\paulo.junior\documents\visual studio 2015\Projects\TesteConexaoOracle\TesteConexaoOracle\bin\Debug\TesteConexaoOracle.exe.config
+c:\Users\paulo.junior\Documents\Visual Studio 2015\Projects\TesteConexaoOracle\TesteConexaoOracle\bin\Debug\TesteConexaoOracle.exe
+c:\Users\paulo.junior\Documents\Visual Studio 2015\Projects\TesteConexaoOracle\TesteConexaoOracle\bin\Debug\TesteConexaoOracle.pdb
+c:\Users\paulo.junior\Documents\Visual Studio 2015\Projects\TesteConexaoOracle\TesteConexaoOracle\obj\Debug\TesteConexaoOracle.exe
+c:\Users\paulo.junior\Documents\Visual Studio 2015\Projects\TesteConexaoOracle\TesteConexaoOracle\obj\Debug\TesteConexaoOracle.pdb
+C:\Users\paulo.junior\documents\visual studio 2015\Projects\TesteConexaoOracle\TesteConexaoOracle\obj\Debug\TesteConexaoOracle.csprojResolveAssemblyReference.cache

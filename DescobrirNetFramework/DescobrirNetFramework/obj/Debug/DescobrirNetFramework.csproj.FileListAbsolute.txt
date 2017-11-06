@@ -1,0 +1,5 @@
+c:\users\paulo.junior\documents\visual studio 2013\Projects\DescobrirNetFramework\DescobrirNetFramework\bin\Debug\DescobrirNetFramework.exe.config
+c:\users\paulo.junior\documents\visual studio 2013\Projects\DescobrirNetFramework\DescobrirNetFramework\bin\Debug\DescobrirNetFramework.exe
+c:\users\paulo.junior\documents\visual studio 2013\Projects\DescobrirNetFramework\DescobrirNetFramework\bin\Debug\DescobrirNetFramework.pdb
+c:\users\paulo.junior\documents\visual studio 2013\Projects\DescobrirNetFramework\DescobrirNetFramework\obj\Debug\DescobrirNetFramework.exe
+c:\users\paulo.junior\documents\visual studio 2013\Projects\DescobrirNetFramework\DescobrirNetFramework\obj\Debug\DescobrirNetFramework.pdb

@@ -1,0 +1,7 @@
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\PrestadorFlanders\PrestadorFlanders\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\PrestadorFlanders\PrestadorFlanders\bin\Debug\Ionic.Zip.dll
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\PrestadorFlanders\PrestadorFlanders\bin\Debug\AlterarGuias.exe.config
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\PrestadorFlanders\PrestadorFlanders\bin\Debug\AlterarGuias.exe
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\PrestadorFlanders\PrestadorFlanders\bin\Debug\AlterarGuias.pdb
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\PrestadorFlanders\PrestadorFlanders\obj\Debug\AlterarGuias.exe
+C:\Users\paulo.junior\Documents\Visual Studio 2013\Projects\PrestadorFlanders\PrestadorFlanders\obj\Debug\AlterarGuias.pdb
